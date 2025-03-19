@@ -1,0 +1,764 @@
+Rank,Major,Degree Type,Early Career Pay,Mid-Career Pay,% High Meaning
+Rank:1,Major:Petroleum Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:98100,MidCareer Pay:212100
+Rank:2,Major:Operations Research & Industrial Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:101200,MidCareer Pay:202600
+Rank:3,Major:Electrical Engineering & Computer Science (EECS),Bachelors,Degree Type:Bachelors,Early Career Pay:128500,MidCareer Pay:192300
+Rank:4,Major:Interaction Design,Bachelors,Degree Type:Bachelors,Early Career Pay:77400,MidCareer Pay:178800
+Rank:5,Major:Building Science,Bachelors,Degree Type:Bachelors,Early Career Pay:71100,MidCareer Pay:172400
+Rank:6,Major:Applied Economics and Management,Bachelors,Degree Type:Bachelors,Early Career Pay:81200,MidCareer Pay:169300
+Rank:7,Major:Actuarial Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:71200,MidCareer Pay:167500
+Rank:8,Major:Optical Science & Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:81500,MidCareer Pay:166400
+Rank:9,Major:Quantitative Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:78400,MidCareer Pay:165100
+Rank:10,Major:Operations Research,Bachelors,Degree Type:Bachelors,Early Career Pay:94900,MidCareer Pay:164900
+Rank:11,Major:Systems Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:89700,MidCareer Pay:163800
+Rank:12,Major:Information & Computer Science,Bachelors,Degree Type:Bachelors,Early Career Pay:73200,MidCareer Pay:162900
+Rank:13,Major:Public Accounting,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:162200
+Rank:14,Major:Cognitive Science,Bachelors,Degree Type:Bachelors,Early Career Pay:80300,MidCareer Pay:162100
+Rank:15,Major:Aeronautics & Astronautics,Bachelors,Degree Type:Bachelors,Early Career Pay:89800,MidCareer Pay:161600
+Rank:16,Major:Aerospace Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:64500,MidCareer Pay:158400
+Rank:17,Major:Pharmacy,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:158000
+Rank:18,Major:Managerial Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:78200,MidCareer Pay:157800
+Rank:19,Major:Foreign Affairs,Bachelors,Degree Type:Bachelors,Early Career Pay:65200,MidCareer Pay:157700
+Rank:20,Major:Political Economy,Bachelors,Degree Type:Bachelors,Early Career Pay:75800,MidCareer Pay:156700
+Rank:21,Major:Chemical Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:87700,MidCareer Pay:156100
+Rank:21,Major:Marine Transportation Management,Bachelors,Degree Type:Bachelors,Early Career Pay:78500,MidCareer Pay:156100
+Rank:23,Major:Computer Science (CS) & Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:93500,MidCareer Pay:154100
+Rank:24,Major:Corporate Accounting & Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:79100,MidCareer Pay:154000
+Rank:25,Major:Computer Engineering (CE),Bachelors,Degree Type:Bachelors,Early Career Pay:92000,MidCareer Pay:153800
+Rank:26,Major:Electrical Power Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:87200,MidCareer Pay:152700
+Rank:27,Major:Marine Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:89400,MidCareer Pay:151800
+Rank:28,Major:Electrical & Computer Engineering (ECE),Bachelors,Degree Type:Bachelors,Early Career Pay:91100,MidCareer Pay:151300
+Rank:29,Major:Econometrics,Bachelors,Degree Type:Bachelors,Early Career Pay:74200,MidCareer Pay:150900
+Rank:30,Major:Actuarial Science,Bachelors,Degree Type:Bachelors,Early Career Pay:78500,MidCareer Pay:150000
+Rank:30,Major:Astronomy,Bachelors,Degree Type:Bachelors,Early Career Pay:77000,MidCareer Pay:150000
+Rank:32,Major:Mechatronics,Bachelors,Degree Type:Bachelors,Early Career Pay:83300,MidCareer Pay:148600
+Rank:33,Major:Computational & Applied Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:88200,MidCareer Pay:148200
+Rank:33,Major:Construction Engineering Management,Bachelors,Degree Type:Bachelors,Early Career Pay:81700,MidCareer Pay:148200
+Rank:35,Major:Aeronautical Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:86500,MidCareer Pay:147200
+Rank:35,Major:Electrical Engineering (EE),Bachelors,Degree Type:Bachelors,Early Career Pay:87500,MidCareer Pay:147200
+Rank:37,Major:Naval Architecture & Marine Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:85300,MidCareer Pay:147000
+Rank:38,Major:Instrumentation & Control Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:83800,MidCareer Pay:146600
+Rank:38,Major:Ocean Engineering (OE),Bachelors,Degree Type:Bachelors,Early Career Pay:80300,MidCareer Pay:146600
+Rank:40,Major:Electrical & Electronics Engineering (EEE),Bachelors,Degree Type:Bachelors,Early Career Pay:86300,MidCareer Pay:146400
+Rank:41,Major:Quantitative Business Analysis,Bachelors,Degree Type:Bachelors,Early Career Pay:86300,MidCareer Pay:145000
+Rank:42,Major:Computer Science (CS) & Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:82800,MidCareer Pay:144900
+Rank:43,Major:Engineering Physics,Bachelors,Degree Type:Bachelors,Early Career Pay:80900,MidCareer Pay:144500
+Rank:44,Major:Bioscience,Bachelors,Degree Type:Bachelors,Early Career Pay:61700,MidCareer Pay:144400
+Rank:45,Major:Computer Science (CS),Bachelors,Degree Type:Bachelors,Early Career Pay:88400,MidCareer Pay:143900
+Rank:46,Major:Jazz Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:63800,MidCareer Pay:143600
+Rank:47,Major:Aeronautical/Aerospace Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:84500,MidCareer Pay:142500
+Rank:48,Major:Bioengineering (BioE),Bachelors,Degree Type:Bachelors,Early Career Pay:81900,MidCareer Pay:142100
+Rank:49,Major:Management Science,Bachelors,Degree Type:Bachelors,Early Career Pay:75500,MidCareer Pay:141900
+Rank:50,Major:Aerospace Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:85900,MidCareer Pay:141800
+Rank:51,Major:Information Management,Bachelors,Degree Type:Bachelors,Early Career Pay:71000,MidCareer Pay:141400
+Rank:52,Major:Metallurgical Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:93200,MidCareer Pay:141300
+Rank:53,Major:Applied Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:79900,MidCareer Pay:141100
+Rank:53,Major:Operations Management & Information Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:78400,MidCareer Pay:141100
+Rank:55,Major:Chemical & Biomolecular Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:88300,MidCareer Pay:140900
+Rank:56,Major:Mechanical & Aeronautical Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:84200,MidCareer Pay:140600
+Rank:57,Major:Materials Science,Bachelors,Degree Type:Bachelors,Early Career Pay:79000,MidCareer Pay:140200
+Rank:58,Major:Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:80000,MidCareer Pay:140000
+Rank:59,Major:Energy Management,Bachelors,Degree Type:Bachelors,Early Career Pay:69700,MidCareer Pay:139900
+Rank:60,Major:Industrial & Systems Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:84500,MidCareer Pay:139600
+Rank:61,Major:Materials Science & Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:83700,MidCareer Pay:139300
+Rank:62,Major:Biomedical Engineering (BME),Bachelors,Degree Type:Bachelors,Early Career Pay:83000,MidCareer Pay:139000
+Rank:63,Major:Welding Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:89200,MidCareer Pay:138700
+Rank:64,Major:Mining Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:87400,MidCareer Pay:138600
+Rank:65,Major:Engineering Science,Bachelors,Degree Type:Bachelors,Early Career Pay:79300,MidCareer Pay:138500
+Rank:65,Major:Industrial Hygiene,Bachelors,Degree Type:Bachelors,Early Career Pay:66700,MidCareer Pay:138500
+Rank:65,Major:Nuclear Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:86900,MidCareer Pay:138500
+Rank:68,Major:Paper Science,Bachelors,Degree Type:Bachelors,Early Career Pay:87400,MidCareer Pay:138000
+Rank:69,Major:Industrial Engineering (IE),Bachelors,Degree Type:Bachelors,Early Career Pay:83000,MidCareer Pay:137800
+Rank:70,Major:Robotics & Automation,Bachelors,Degree Type:Bachelors,Early Career Pay:74700,MidCareer Pay:137700
+Rank:70,Major:Physics,Bachelors,Degree Type:Bachelors,Early Career Pay:77900,MidCareer Pay:137700
+Rank:72,Major:Integrated Science & Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:73700,MidCareer Pay:137300
+Rank:73,Major:Business Analysis,Bachelors,Degree Type:Bachelors,Early Career Pay:73100,MidCareer Pay:137000
+Rank:74,Major:Business & Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:69000,MidCareer Pay:136700
+Rank:74,Major:Economics and Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:79800,MidCareer Pay:136700
+Rank:76,Major:Software Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:86800,MidCareer Pay:136600
+Rank:77,Major:Computer & Information Science,Bachelors,Degree Type:Bachelors,Early Career Pay:78500,MidCareer Pay:135600
+Rank:78,Major:Global & International Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:62300,MidCareer Pay:135100
+Rank:79,Major:Entrepreneurship & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:66100,MidCareer Pay:134800
+Rank:80,Major:International Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:66200,MidCareer Pay:134500
+Rank:80,Major:Materials Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:83700,MidCareer Pay:134500
+Rank:82,Major:Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:72900,MidCareer Pay:134200
+Rank:82,Major:Environmental Health & Safety Management,Bachelors,Degree Type:Bachelors,Early Career Pay:69500,MidCareer Pay:134200
+Rank:84,Major:Interactive Media Design,Bachelors,Degree Type:Bachelors,Early Career Pay:62400,MidCareer Pay:134100
+Rank:85,Major:Mechanical Engineering (ME),Bachelors,Degree Type:Bachelors,Early Career Pay:82000,MidCareer Pay:133700
+Rank:85,Major:Packaging Science,Bachelors,Degree Type:Bachelors,Early Career Pay:80700,MidCareer Pay:133700
+Rank:87,Major:Management Information Systems (MIS),Bachelors,Degree Type:Bachelors,Early Career Pay:76300,MidCareer Pay:133400
+Rank:88,Major:Ceramic Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:78700,MidCareer Pay:133200
+Rank:88,Major:Structural Engineering (SE),Bachelors,Degree Type:Bachelors,Early Career Pay:79000,MidCareer Pay:133200
+Rank:90,Major:Telecommunications Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:81400,MidCareer Pay:132800
+Rank:91,Major:Construction Project Management,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:132500
+Rank:92,Major:Finance & Real Estate,Bachelors,Degree Type:Bachelors,Early Career Pay:75700,MidCareer Pay:132100
+Rank:93,Major:Electronics Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:81500,MidCareer Pay:131700
+Rank:94,Major:Automotive Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:76600,MidCareer Pay:131600
+Rank:95,Major:Plastics Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:81500,MidCareer Pay:131000
+Rank:95,Major:Mathematics & Statistics,Bachelors,Degree Type:Bachelors,Early Career Pay:74400,MidCareer Pay:131000
+Rank:97,Major:Information & Decision Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:75400,MidCareer Pay:130000
+Rank:98,Major:Mechanical,Bachelors,Degree Type:Bachelors,Early Career Pay:82200,MidCareer Pay:129900
+Rank:99,Major:Applied Physics,Bachelors,Degree Type:Bachelors,Early Career Pay:78700,MidCareer Pay:129800
+Rank:100,Major:Building Construction (BC),Bachelors,Degree Type:Bachelors,Early Career Pay:75500,MidCareer Pay:129700
+Rank:101,Major:Accounting & Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:76700,MidCareer Pay:129100
+Rank:102,Major:Psychobiology,Bachelors,Degree Type:Bachelors,Early Career Pay:60500,MidCareer Pay:128600
+Rank:103,Major:Astrophysics,Bachelors,Degree Type:Bachelors,Early Career Pay:81600,MidCareer Pay:128300
+Rank:103,Major:Financial Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:73200,MidCareer Pay:128300
+Rank:105,Major:International Business & Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:128100
+Rank:106,Major:Computing & Information Systems (CIS),Bachelors,Degree Type:Bachelors,Early Career Pay:70900,MidCareer Pay:127700
+Rank:107,Major:Asian Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:54800,MidCareer Pay:127500
+Rank:108,Major:Government,Bachelors,Degree Type:Bachelors,Early Career Pay:65800,MidCareer Pay:127400
+Rank:108,Major:Nuclear Engineering Technology (NET),Bachelors,Degree Type:Bachelors,Early Career Pay:96500,MidCareer Pay:127400
+Rank:108,Major:Finance & Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:72400,MidCareer Pay:127400
+Rank:111,Major:Marketing & International Business,Bachelors,Degree Type:Bachelors,Early Career Pay:62100,MidCareer Pay:127200
+Rank:112,Major:Biochemistry & Molecular Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:64000,MidCareer Pay:127000
+Rank:112,Major:Information Systems Management,Bachelors,Degree Type:Bachelors,Early Career Pay:72600,MidCareer Pay:127000
+Rank:114,Major:Business Information Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:75500,MidCareer Pay:126600
+Rank:114,Major:Mathematics,Bachelors,Degree Type:Bachelors,Early Career Pay:74900,MidCareer Pay:126600
+Rank:116,Major:Information Security & Assurance,Bachelors,Degree Type:Bachelors,Early Career Pay:70600,MidCareer Pay:126400
+Rank:117,Major:Civil Engineering (CE),Bachelors,Degree Type:Bachelors,Early Career Pay:75800,MidCareer Pay:126100
+Rank:118,Major:Construction Management,Bachelors,Degree Type:Bachelors,Early Career Pay:74200,MidCareer Pay:125900
+Rank:119,Major:Polymer Science & Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:86100,MidCareer Pay:125800
+Rank:120,Major:International Management,Bachelors,Degree Type:Bachelors,Early Career Pay:67500,MidCareer Pay:125700
+Rank:121,Major:Applied Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:71900,MidCareer Pay:125600
+Rank:121,Major:Construction Science,Bachelors,Degree Type:Bachelors,Early Career Pay:79800,MidCareer Pay:125600
+Rank:121,Major:Economics & Political Science,Bachelors,Degree Type:Bachelors,Early Career Pay:66100,MidCareer Pay:125600
+Rank:124,Major:Political Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:59300,MidCareer Pay:125500
+Rank:125,Major:Aeronautical Science,Bachelors,Degree Type:Bachelors,Early Career Pay:64900,MidCareer Pay:125300
+Rank:125,Major:Control Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:80000,MidCareer Pay:125300
+Rank:127,Major:Russian Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:57900,MidCareer Pay:125200
+Rank:128,Major:Business Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:68600,MidCareer Pay:125100
+Rank:129,Major:Civil & Environmental Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:75900,MidCareer Pay:124900
+Rank:130,Major:Business Computer Information Systems (BCIS),Bachelors,Degree Type:Bachelors,Early Career Pay:76500,MidCareer Pay:124500
+Rank:131,Major:Cybersecurity,Bachelors,Degree Type:Bachelors,Early Career Pay:74800,MidCareer Pay:124400
+Rank:132,Major:Engineering Management,Bachelors,Degree Type:Bachelors,Early Career Pay:79400,MidCareer Pay:124200
+Rank:132,Major:Information Systems (IS),Bachelors,Degree Type:Bachelors,Early Career Pay:75300,MidCareer Pay:124200
+Rank:132,Major:Manufacturing Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:79800,MidCareer Pay:124200
+Rank:132,Major:Real Estate,Bachelors,Degree Type:Bachelors,Early Career Pay:71400,MidCareer Pay:124200
+Rank:136,Major:Building Construction Management,Bachelors,Degree Type:Bachelors,Early Career Pay:73600,MidCareer Pay:124100
+Rank:137,Major:Plastics Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:75000,MidCareer Pay:124000
+Rank:138,Major:International Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:67500,MidCareer Pay:123700
+Rank:139,Major:Aviation,Bachelors,Degree Type:Bachelors,Early Career Pay:67500,MidCareer Pay:123000
+Rank:139,Major:Biosystems Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:74800,MidCareer Pay:123000
+Rank:141,Major:Data Processing,Bachelors,Degree Type:Bachelors,Early Career Pay:75900,MidCareer Pay:122800
+Rank:141,Major:Food Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:67100,MidCareer Pay:122800
+Rank:143,Major:Computer Science & Information Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:76300,MidCareer Pay:122500
+Rank:144,Major:Agricultural Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:62400,MidCareer Pay:122400
+Rank:144,Major:Management & Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:66100,MidCareer Pay:122400
+Rank:144,Major:Strategic Management,Bachelors,Degree Type:Bachelors,Early Career Pay:76400,MidCareer Pay:122400
+Rank:147,Major:Computer Management Information Systems (CMIS),Bachelors,Degree Type:Bachelors,Early Career Pay:65800,MidCareer Pay:122300
+Rank:148,Major:Organic Chemistry,Bachelors,Degree Type:Bachelors,Early Career Pay:51400,MidCareer Pay:122200
+Rank:149,Major:Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:70800,MidCareer Pay:122000
+Rank:150,Major:Financial Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:63300,MidCareer Pay:121900
+Rank:151,Major:Web Development,Bachelors,Degree Type:Bachelors,Early Career Pay:64600,MidCareer Pay:121700
+Rank:152,Major:European Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:121600
+Rank:153,Major:Construction Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:78300,MidCareer Pay:121300
+Rank:154,Major:International Relations,Bachelors,Degree Type:Bachelors,Early Career Pay:62900,MidCareer Pay:121200
+Rank:155,Major:Molecular Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:64300,MidCareer Pay:121100
+Rank:155,Major:International Business,Bachelors,Degree Type:Bachelors,Early Career Pay:65100,MidCareer Pay:121100
+Rank:157,Major:Computer Information Systems (CIS),Bachelors,Degree Type:Bachelors,Early Career Pay:71700,MidCareer Pay:121000
+Rank:158,Major:Information Security,Bachelors,Degree Type:Bachelors,Early Career Pay:76400,MidCareer Pay:120700
+Rank:158,Major:Japanese Language,Bachelors,Degree Type:Bachelors,Early Career Pay:62100,MidCareer Pay:120700
+Rank:160,Major:East Asian Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:60100,MidCareer Pay:120400
+Rank:161,Major:Economics & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:62800,MidCareer Pay:120100
+Rank:162,Major:European History,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:120000
+Rank:163,Major:Agricultural Engineering (AE),Bachelors,Degree Type:Bachelors,Early Career Pay:73500,MidCareer Pay:119900
+Rank:164,Major:Architectural Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:76400,MidCareer Pay:119800
+Rank:164,Major:Entrepreneurship & Leadership,Bachelors,Degree Type:Bachelors,Early Career Pay:67000,MidCareer Pay:119800
+Rank:164,Major:Computing,Bachelors,Degree Type:Bachelors,Early Career Pay:73400,MidCareer Pay:119800
+Rank:167,Major:Information Technology Management,Bachelors,Degree Type:Bachelors,Early Career Pay:74100,MidCareer Pay:119700
+Rank:168,Major:Electrical Engineering Technology (EET),Bachelors,Degree Type:Bachelors,Early Career Pay:76100,MidCareer Pay:119600
+Rank:169,Major:Chinese Language,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:119500
+Rank:170,Major:Business Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:67100,MidCareer Pay:119400
+Rank:171,Major:Sales & Business Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:67000,MidCareer Pay:119300
+Rank:172,Major:Safety Science,Bachelors,Degree Type:Bachelors,Early Career Pay:72600,MidCareer Pay:119200
+Rank:173,Major:Corporate Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:74500,MidCareer Pay:119100
+Rank:174,Major:Industrial Distribution,Bachelors,Degree Type:Bachelors,Early Career Pay:73600,MidCareer Pay:118900
+Rank:175,Major:Computer Engineering Technology (CET),Bachelors,Degree Type:Bachelors,Early Career Pay:72900,MidCareer Pay:118800
+Rank:176,Major:Dairy Science,Bachelors,Degree Type:Bachelors,Early Career Pay:60100,MidCareer Pay:118300
+Rank:177,Major:Japanese Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:59700,MidCareer Pay:118100
+Rank:178,Major:Network Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:118000
+Rank:179,Major:Environmental Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:72600,MidCareer Pay:117700
+Rank:180,Major:Accounting & Taxation,Bachelors,Degree Type:Bachelors,Early Career Pay:60000,MidCareer Pay:117500
+Rank:181,Major:Robotics,Bachelors,Degree Type:Bachelors,Early Career Pay:91100,MidCareer Pay:117400
+Rank:182,Major:Biotechnology,Bachelors,Degree Type:Bachelors,Early Career Pay:63000,MidCareer Pay:116900
+Rank:183,Major:Accounting & Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:69100,MidCareer Pay:116700
+Rank:184,Major:Mechanical Engineering Technology (MET),Bachelors,Degree Type:Bachelors,Early Career Pay:74200,MidCareer Pay:116500
+Rank:185,Major:Operations Management (OM),Bachelors,Degree Type:Bachelors,Early Career Pay:72100,MidCareer Pay:116200
+Rank:186,Major:Food Science & Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:61700,MidCareer Pay:116100
+Rank:187,Major:Agricultural Economics & Business,Bachelors,Degree Type:Bachelors,Early Career Pay:63700,MidCareer Pay:115800
+Rank:188,Major:Biochemistry (BCH),Bachelors,Degree Type:Bachelors,Early Career Pay:58900,MidCareer Pay:115600
+Rank:188,Major:Computer Networking Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:67100,MidCareer Pay:115600
+Rank:188,Major:Product Design,Bachelors,Degree Type:Bachelors,Early Career Pay:72100,MidCareer Pay:115600
+Rank:191,Major:Mechanical Design,Bachelors,Degree Type:Bachelors,Early Career Pay:70000,MidCareer Pay:115500
+Rank:192,Major:Labor Relations,Bachelors,Degree Type:Bachelors,Early Career Pay:59500,MidCareer Pay:115300
+Rank:192,Major:Information Assurance,Bachelors,Degree Type:Bachelors,Early Career Pay:63500,MidCareer Pay:115300
+Rank:194,Major:Business Operations,Bachelors,Degree Type:Bachelors,Early Career Pay:64600,MidCareer Pay:115100
+Rank:195,Major:Environmental Policy Analysis & Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:60800,MidCareer Pay:114900
+Rank:196,Major:Information Technology (IT),Bachelors,Degree Type:Bachelors,Early Career Pay:69800,MidCareer Pay:114800
+Rank:196,Major:International Development Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:57200,MidCareer Pay:114800
+Rank:198,Major:Rhetoric,Bachelors,Degree Type:Bachelors,Early Career Pay:60300,MidCareer Pay:114700
+Rank:199,Major:Aviation Management,Bachelors,Degree Type:Bachelors,Early Career Pay:58900,MidCareer Pay:114600
+Rank:199,Major:Consumer Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:62400,MidCareer Pay:114600
+Rank:201,Major:Electromechanical Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:82400,MidCareer Pay:114500
+Rank:201,Major:Informatics,Bachelors,Degree Type:Bachelors,Early Career Pay:81600,MidCareer Pay:114500
+Rank:203,Major:Computer Security,Bachelors,Degree Type:Bachelors,Early Career Pay:78500,MidCareer Pay:114100
+Rank:203,Major:Software Applications & Programming,Bachelors,Degree Type:Bachelors,Early Career Pay:73700,MidCareer Pay:114100
+Rank:203,Major:Business & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:61400,MidCareer Pay:114100
+Rank:206,Major:Social Ecology,Bachelors,Degree Type:Bachelors,Early Career Pay:56200,MidCareer Pay:114000
+Rank:207,Major:Accounting & Auditing,Bachelors,Degree Type:Bachelors,Early Career Pay:67600,MidCareer Pay:113900
+Rank:207,Major:Database Management,Bachelors,Degree Type:Bachelors,Early Career Pay:78600,MidCareer Pay:113900
+Rank:207,Major:Industrial Management,Bachelors,Degree Type:Bachelors,Early Career Pay:67800,MidCareer Pay:113900
+Rank:210,Major:Politics,Bachelors,Degree Type:Bachelors,Early Career Pay:61300,MidCareer Pay:113800
+Rank:211,Major:Business Technology Management,Bachelors,Degree Type:Bachelors,Early Career Pay:69000,MidCareer Pay:113700
+Rank:211,Major:Construction Science & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:75700,MidCareer Pay:113700
+Rank:211,Major:Political Science/Public Law,Bachelors,Degree Type:Bachelors,Early Career Pay:60000,MidCareer Pay:113700
+Rank:211,Major:Government & International Politics (GVIP),Bachelors,Degree Type:Bachelors,Early Career Pay:60700,MidCareer Pay:113700
+Rank:215,Major:Aviation Flight Science (AFL),Bachelors,Degree Type:Bachelors,Early Career Pay:64200,MidCareer Pay:113500
+Rank:216,Major:Engineering Technology (ET),Bachelors,Degree Type:Bachelors,Early Career Pay:67600,MidCareer Pay:113400
+Rank:217,Major:Information Technology (IT) & Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:72000,MidCareer Pay:113300
+Rank:218,Major:Telecommunications Management,Bachelors,Degree Type:Bachelors,Early Career Pay:64700,MidCareer Pay:112900
+Rank:219,Major:Agribusiness,Bachelors,Degree Type:Bachelors,Early Career Pay:58600,MidCareer Pay:112700
+Rank:219,Major:Occupational Health and Safety,Bachelors,Degree Type:Bachelors,Early Career Pay:69000,MidCareer Pay:112700
+Rank:219,Major:Physical Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:57500,MidCareer Pay:112700
+Rank:222,Major:Industrial Safety,Bachelors,Degree Type:Bachelors,Early Career Pay:61100,MidCareer Pay:112600
+Rank:222,Major:Music Production & Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:112600
+Rank:224,Major:Business & Finance,Bachelors,Degree Type:Bachelors,Early Career Pay:63400,MidCareer Pay:112400
+Rank:224,Major:Civil Engineering Technology (CET),Bachelors,Degree Type:Bachelors,Early Career Pay:67900,MidCareer Pay:112400
+Rank:226,Major:Chemistry,Bachelors,Degree Type:Bachelors,Early Career Pay:60200,MidCareer Pay:112300
+Rank:226,Major:French Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:56300,MidCareer Pay:112300
+Rank:228,Major:Operations & Supply Chain Management,Bachelors,Degree Type:Bachelors,Early Career Pay:71500,MidCareer Pay:112200
+Rank:229,Major:Computer Information Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:67100,MidCareer Pay:111900
+Rank:229,Major:Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:60200,MidCareer Pay:111900
+Rank:231,Major:Finance & Banking,Bachelors,Degree Type:Bachelors,Early Career Pay:65100,MidCareer Pay:111800
+Rank:232,Major:Computer Programming,Bachelors,Degree Type:Bachelors,Early Career Pay:68800,MidCareer Pay:111700
+Rank:233,Major:Marketing & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:59700,MidCareer Pay:111500
+Rank:233,Major:Supply Chain Management,Bachelors,Degree Type:Bachelors,Early Career Pay:71300,MidCareer Pay:111500
+Rank:235,Major:Technical Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:57200,MidCareer Pay:111400
+Rank:236,Major:Cell Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:58500,MidCareer Pay:111300
+Rank:237,Major:Networks & Telecommunications,Bachelors,Degree Type:Bachelors,Early Career Pay:64600,MidCareer Pay:111100
+Rank:238,Major:Electronics Engineering Technology (EET),Bachelors,Degree Type:Bachelors,Early Career Pay:74500,MidCareer Pay:110800
+Rank:239,Major:Biopsychology,Bachelors,Degree Type:Bachelors,Early Career Pay:61600,MidCareer Pay:110700
+Rank:239,Major:Applied Networking & Systems Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:67500,MidCareer Pay:110700
+Rank:241,Major:Geological Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:70500,MidCareer Pay:110600
+Rank:242,Major:Business Management & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:58700,MidCareer Pay:110500
+Rank:242,Major:Spanish Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:59500,MidCareer Pay:110500
+Rank:244,Major:Real Estate Development,Bachelors,Degree Type:Bachelors,Early Career Pay:68900,MidCareer Pay:110400
+Rank:245,Major:Electronics & Computer Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:62300,MidCareer Pay:110300
+Rank:245,Major:Industrial Technology (IT),Bachelors,Degree Type:Bachelors,Early Career Pay:74100,MidCareer Pay:110300
+Rank:247,Major:Accounts,Bachelors,Degree Type:Bachelors,Early Career Pay:69100,MidCareer Pay:110200
+Rank:247,Major:Construction Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:73700,MidCareer Pay:110200
+Rank:247,Major:Risk Management,Bachelors,Degree Type:Bachelors,Early Career Pay:65700,MidCareer Pay:110200
+Rank:250,Major:Industrial Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:77600,MidCareer Pay:110100
+Rank:250,Major:Genetics,Bachelors,Degree Type:Bachelors,Early Career Pay:63200,MidCareer Pay:110100
+Rank:252,Major:Government & Politics,Bachelors,Degree Type:Bachelors,Early Career Pay:62100,MidCareer Pay:110000
+Rank:252,Major:Microbiology & Immunology,Bachelors,Degree Type:Bachelors,Early Career Pay:65400,MidCareer Pay:110000
+Rank:254,Major:Digital Design,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:109700
+Rank:254,Major:Hotel Management,Bachelors,Degree Type:Bachelors,Early Career Pay:58000,MidCareer Pay:109700
+Rank:254,Major:Italian Language,Bachelors,Degree Type:Bachelors,Early Career Pay:58400,MidCareer Pay:109700
+Rank:254,Major:Safety Management,Bachelors,Degree Type:Bachelors,Early Career Pay:69300,MidCareer Pay:109700
+Rank:258,Major:Environmental Health & Safety,Bachelors,Degree Type:Bachelors,Early Career Pay:66500,MidCareer Pay:109600
+Rank:258,Major:Marketing Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:54700,MidCareer Pay:109600
+Rank:258,Major:Political Science,Bachelors,Degree Type:Bachelors,Early Career Pay:59800,MidCareer Pay:109600
+Rank:258,Major:Welding Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:83700,MidCareer Pay:109600
+Rank:262,Major:Industrial Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:58100,MidCareer Pay:109500
+Rank:263,Major:Pharmaceutical Sciences (PS),Bachelors,Degree Type:Bachelors,Early Career Pay:62000,MidCareer Pay:109200
+Rank:263,Major:Marketing & Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:58400,MidCareer Pay:109200
+Rank:265,Major:Network Security,Bachelors,Degree Type:Bachelors,Early Career Pay:69900,MidCareer Pay:109100
+Rank:266,Major:Industrial Design (ID),Bachelors,Degree Type:Bachelors,Early Career Pay:64600,MidCareer Pay:109000
+Rank:266,Major:Sales & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:62800,MidCareer Pay:109000
+Rank:268,Major:Environmental Science & Policy,Bachelors,Degree Type:Bachelors,Early Career Pay:58800,MidCareer Pay:108800
+Rank:268,Major:Organizational Behavior,Bachelors,Degree Type:Bachelors,Early Career Pay:65200,MidCareer Pay:108800
+Rank:270,Major:Business Data Analysis,Bachelors,Degree Type:Bachelors,Early Career Pay:74800,MidCareer Pay:108700
+Rank:271,Major:Physics & Astronomy,Bachelors,Degree Type:Bachelors,Early Career Pay:67800,MidCareer Pay:108600
+Rank:272,Major:Philosophy,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:108400
+Rank:273,Major:Accounting,Bachelors,Degree Type:Bachelors,Early Career Pay:64200,MidCareer Pay:108300
+Rank:273,Major:German Language,Bachelors,Degree Type:Bachelors,Early Career Pay:60600,MidCareer Pay:108300
+Rank:273,Major:Comparative Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:54500,MidCareer Pay:108300
+Rank:276,Major:Architecture,Bachelors,Degree Type:Bachelors,Early Career Pay:60000,MidCareer Pay:108100
+Rank:277,Major:Advertising Design,Bachelors,Degree Type:Bachelors,Early Career Pay:63200,MidCareer Pay:108000
+Rank:278,Major:Accounting & Computer Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:77800,MidCareer Pay:107500
+Rank:278,Major:Financial Accounting,Bachelors,Degree Type:Bachelors,Early Career Pay:65600,MidCareer Pay:107500
+Rank:280,Major:Risk Management & Insurance,Bachelors,Degree Type:Bachelors,Early Career Pay:69700,MidCareer Pay:107400
+Rank:281,Major:Urban Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:57600,MidCareer Pay:107300
+Rank:282,Major:Accounting & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:63900,MidCareer Pay:107000
+Rank:282,Major:Cell & Molecular Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:59800,MidCareer Pay:107000
+Rank:282,Major:Manufacturing Management,Bachelors,Degree Type:Bachelors,Early Career Pay:73200,MidCareer Pay:107000
+Rank:285,Major:Computer & Network Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:65700,MidCareer Pay:106800
+Rank:286,Major:Occupational Therapy (OT),Bachelors,Degree Type:Bachelors,Early Career Pay:63500,MidCareer Pay:106700
+Rank:287,Major:Manufacturing Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:76800,MidCareer Pay:106500
+Rank:288,Major:Advertising,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:106400
+Rank:288,Major:Project Management,Bachelors,Degree Type:Bachelors,Early Career Pay:66500,MidCareer Pay:106400
+Rank:290,Major:Organizational Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:58100,MidCareer Pay:106300
+Rank:291,Major:Insurance,Bachelors,Degree Type:Bachelors,Early Career Pay:66100,MidCareer Pay:106200
+Rank:292,Major:Labor Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:55300,MidCareer Pay:106000
+Rank:293,Major:Applied Computer Science,Bachelors,Degree Type:Bachelors,Early Career Pay:76500,MidCareer Pay:105900
+Rank:293,Major:Geology,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:105900
+Rank:293,Major:Marketing Management,Bachelors,Degree Type:Bachelors,Early Career Pay:60900,MidCareer Pay:105900
+Rank:296,Major:Design,Bachelors,Degree Type:Bachelors,Early Career Pay:62400,MidCareer Pay:105800
+Rank:296,Major:Radiation Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:78100,MidCareer Pay:105800
+Rank:296,Major:Strategic Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:54900,MidCareer Pay:105800
+Rank:296,Major:Transportation & Logistics Management,Bachelors,Degree Type:Bachelors,Early Career Pay:67700,MidCareer Pay:105800
+Rank:300,Major:Electronic Systems Technology (EST),Bachelors,Degree Type:Bachelors,Early Career Pay:89500,MidCareer Pay:105600
+Rank:300,Major:Latin American Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:54900,MidCareer Pay:105600
+Rank:302,Major:Agronomy,Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:105300
+Rank:302,Major:Environmental Health,Bachelors,Degree Type:Bachelors,Early Career Pay:58500,MidCareer Pay:105300
+Rank:304,Major:Applied Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:67500,MidCareer Pay:105200
+Rank:305,Major:Accounting Information Systems,Bachelors,Degree Type:Bachelors,Early Career Pay:73000,MidCareer Pay:104800
+Rank:305,Major:Crop Science,Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:104800
+Rank:305,Major:Microbiology,Bachelors,Degree Type:Bachelors,Early Career Pay:56800,MidCareer Pay:104800
+Rank:308,Major:Speech & Drama,Bachelors,Degree Type:Bachelors,Early Career Pay:47100,MidCareer Pay:104700
+Rank:309,Major:Entrepreneurship,Bachelors,Degree Type:Bachelors,Early Career Pay:63600,MidCareer Pay:104300
+Rank:309,Major:Corporate Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:104300
+Rank:311,Major:Environmental Design,Bachelors,Degree Type:Bachelors,Early Career Pay:55600,MidCareer Pay:104200
+Rank:312,Major:Advertising & Marketing Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:56800,MidCareer Pay:104100
+Rank:313,Major:Digital Media Design,Bachelors,Degree Type:Bachelors,Early Career Pay:53800,MidCareer Pay:104000
+Rank:313,Major:Hotel Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:79700,MidCareer Pay:104000
+Rank:313,Major:Math & Science,Bachelors,Degree Type:Bachelors,Early Career Pay:65900,MidCareer Pay:104000
+Rank:316,Major:Aeronautics,Bachelors,Degree Type:Bachelors,Early Career Pay:72600,MidCareer Pay:103900
+Rank:317,Major:International Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:58100,MidCareer Pay:103800
+Rank:317,Major:Urban & Regional Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:61700,MidCareer Pay:103800
+Rank:319,Major:Computer Graphics Technology (CGT),Bachelors,Degree Type:Bachelors,Early Career Pay:59400,MidCareer Pay:103700
+Rank:320,Major:Food Science,Bachelors,Degree Type:Bachelors,Early Career Pay:62500,MidCareer Pay:103400
+Rank:321,Major:Global Business Management,Bachelors,Degree Type:Bachelors,Early Career Pay:65700,MidCareer Pay:103100
+Rank:321,Major:Police Science,Bachelors,Degree Type:Bachelors,Early Career Pay:63400,MidCareer Pay:103100
+Rank:323,Major:Product Design Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:75700,MidCareer Pay:102900
+Rank:324,Major:Anthropology & English,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:102700
+Rank:324,Major:Construction Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:65700,MidCareer Pay:102700
+Rank:326,Major:Sociology & Organizational Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:63800,MidCareer Pay:102500
+Rank:327,Major:Management & Organization,Bachelors,Degree Type:Bachelors,Early Career Pay:79500,MidCareer Pay:102400
+Rank:328,Major:Logistics,Bachelors,Degree Type:Bachelors,Early Career Pay:67900,MidCareer Pay:102300
+Rank:329,Major:Information Systems Security,Bachelors,Degree Type:Bachelors,Early Career Pay:66200,MidCareer Pay:102100
+Rank:329,Major:International Affairs,Bachelors,Degree Type:Bachelors,Early Career Pay:60300,MidCareer Pay:102100
+Rank:331,Major:Biological Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:58600,MidCareer Pay:101900
+Rank:331,Major:Personal Financial Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:101900
+Rank:333,Major:Environmental Science,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:101600
+Rank:334,Major:Theatre & Drama Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:54800,MidCareer Pay:101400
+Rank:335,Major:Cinema Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:54800,MidCareer Pay:101200
+Rank:335,Major:Land Surveying,Bachelors,Degree Type:Bachelors,Early Career Pay:59400,MidCareer Pay:101200
+Rank:337,Major:Business Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:60000,MidCareer Pay:100800
+Rank:338,Major:German Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:58600,MidCareer Pay:100600
+Rank:338,Major:New Media Design,Bachelors,Degree Type:Bachelors,Early Career Pay:64900,MidCareer Pay:100600
+Rank:340,Major:International Trade & Business,Bachelors,Degree Type:Bachelors,Early Career Pay:62800,MidCareer Pay:100300
+Rank:340,Major:Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:64900,MidCareer Pay:100300
+Rank:340,Major:Textile & Apparel Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:55000,MidCareer Pay:100300
+Rank:343,Major:Advertising & Promotion,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:100200
+Rank:343,Major:City & Regional Planning,Bachelors,Degree Type:Bachelors,Early Career Pay:61600,MidCareer Pay:100200
+Rank:345,Major:Advertising & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:57000,MidCareer Pay:99800
+Rank:346,Major:Aviation Maintenance Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:59000,MidCareer Pay:99700
+Rank:346,Major:English Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:55600,MidCareer Pay:99700
+Rank:346,Major:Urban Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:59500,MidCareer Pay:99700
+Rank:346,Major:Agricultural Science,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:99700
+Rank:350,Major:Management,Bachelors,Degree Type:Bachelors,Early Career Pay:59800,MidCareer Pay:99600
+Rank:351,Major:History & Politics,Bachelors,Degree Type:Bachelors,Early Career Pay:56500,MidCareer Pay:99400
+Rank:351,Major:Human Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:59500,MidCareer Pay:99400
+Rank:353,Major:Automotive Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:99300
+Rank:353,Major:Fashion Design,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:99300
+Rank:353,Major:Magazine Journalism,Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:99300
+Rank:356,Major:Textile Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:62300,MidCareer Pay:99200
+Rank:356,Major:American History (United States),Bachelors,Degree Type:Bachelors,Early Career Pay:60700,MidCareer Pay:99200
+Rank:356,Major:Architectural Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:57400,MidCareer Pay:99200
+Rank:359,Major:Organizational Development,Bachelors,Degree Type:Bachelors,Early Career Pay:62300,MidCareer Pay:99100
+Rank:360,Major:Business Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:62100,MidCareer Pay:99000
+Rank:360,Major:Interior Architecture,Bachelors,Degree Type:Bachelors,Early Career Pay:55300,MidCareer Pay:99000
+Rank:360,Major:Journalism & Mass Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:54500,MidCareer Pay:99000
+Rank:363,Major:Business Administration & Accounting,Bachelors,Degree Type:Bachelors,Early Career Pay:61600,MidCareer Pay:98900
+Rank:364,Major:Environmental & Natural Resource Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:60600,MidCareer Pay:98800
+Rank:365,Major:Neuroscience,Bachelors,Degree Type:Bachelors,Early Career Pay:60900,MidCareer Pay:98700
+Rank:366,Major:Business Management,Bachelors,Degree Type:Bachelors,Early Career Pay:60800,MidCareer Pay:98600
+Rank:367,Major:Computer Aided Drafting & Design (CADD),Bachelors,Degree Type:Bachelors,Early Career Pay:58000,MidCareer Pay:98400
+Rank:367,Major:Drama,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:98400
+Rank:369,Major:Bachelor in Science Nursing,Bachelors,Degree Type:Bachelors,Early Career Pay:78500,MidCareer Pay:98300
+Rank:370,Major:Linguistics,Bachelors,Degree Type:Bachelors,Early Career Pay:60800,MidCareer Pay:98200
+Rank:371,Major:Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:56900,MidCareer Pay:98100
+Rank:371,Major:Nursing Science,Bachelors,Degree Type:Bachelors,Early Career Pay:77900,MidCareer Pay:98100
+Rank:371,Major:Writing,Bachelors,Degree Type:Bachelors,Early Career Pay:51400,MidCareer Pay:98100
+Rank:374,Major:French Language,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:98000
+Rank:375,Major:Integrated Marketing Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:97900
+Rank:376,Major:Architectural Design,Bachelors,Degree Type:Bachelors,Early Career Pay:52000,MidCareer Pay:97600
+Rank:377,Major:Logistics Management,Bachelors,Degree Type:Bachelors,Early Career Pay:67900,MidCareer Pay:97500
+Rank:377,Major:Natural Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:51600,MidCareer Pay:97500
+Rank:377,Major:Public Affairs,Bachelors,Degree Type:Bachelors,Early Career Pay:61100,MidCareer Pay:97500
+Rank:380,Major:Journalism,Bachelors,Degree Type:Bachelors,Early Career Pay:54200,MidCareer Pay:97400
+Rank:380,Major:Technical Management,Bachelors,Degree Type:Bachelors,Early Career Pay:74800,MidCareer Pay:97400
+Rank:380,Major:General Science,Bachelors,Degree Type:Bachelors,Early Career Pay:58300,MidCareer Pay:97400
+Rank:383,Major:French Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:60700,MidCareer Pay:97300
+Rank:383,Major:Marketing & Mass Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:56500,MidCareer Pay:97300
+Rank:383,Major:Biology & Chemistry,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:97300
+Rank:386,Major:Digital Media,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:97200
+Rank:387,Major:Professional & Technical Writing,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:96900
+Rank:387,Major:Public Relations & Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:96900
+Rank:389,Major:Textile Design,Bachelors,Degree Type:Bachelors,Early Career Pay:58400,MidCareer Pay:96800
+Rank:390,Major:Finance & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:69100,MidCareer Pay:96700
+Rank:390,Major:Law,Bachelors,Degree Type:Bachelors,Early Career Pay:61600,MidCareer Pay:96700
+Rank:392,Major:Nursing,Bachelors,Degree Type:Bachelors,Early Career Pay:75300,MidCareer Pay:96600
+Rank:392,Major:Organizational Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:54100,MidCareer Pay:96600
+Rank:394,Major:Architectural Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:52500,MidCareer Pay:96500
+Rank:394,Major:Global Business,Bachelors,Degree Type:Bachelors,Early Career Pay:65400,MidCareer Pay:96500
+Rank:394,Major:Hydrology,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:96500
+Rank:394,Major:Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:54800,MidCareer Pay:96500
+Rank:394,Major:Agriculture,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:96500
+Rank:399,Major:Physiology,Bachelors,Degree Type:Bachelors,Early Career Pay:57100,MidCareer Pay:96300
+Rank:400,Major:Music Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:96200
+Rank:400,Major:Pre-Medicine,Bachelors,Degree Type:Bachelors,Early Career Pay:59100,MidCareer Pay:96200
+Rank:400,Major:Web & Digital Media Development,Bachelors,Degree Type:Bachelors,Early Career Pay:62700,MidCareer Pay:96200
+Rank:403,Major:General Business,Bachelors,Degree Type:Bachelors,Early Career Pay:58000,MidCareer Pay:96100
+Rank:403,Major:Public Relations (PR),Bachelors,Degree Type:Bachelors,Early Career Pay:53500,MidCareer Pay:96100
+Rank:403,Major:History & Political Science,Bachelors,Degree Type:Bachelors,Early Career Pay:58900,MidCareer Pay:96100
+Rank:406,Major:Administration of Justice,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:96000
+Rank:406,Major:Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:55300,MidCareer Pay:96000
+Rank:406,Major:Web Design & Development,Bachelors,Degree Type:Bachelors,Early Career Pay:63000,MidCareer Pay:96000
+Rank:409,Major:Personnel Management,Bachelors,Degree Type:Bachelors,Early Career Pay:59600,MidCareer Pay:95900
+Rank:410,Major:Computer Animation,Bachelors,Degree Type:Bachelors,Early Career Pay:54800,MidCareer Pay:95800
+Rank:410,Major:Quality Management,Bachelors,Degree Type:Bachelors,Early Career Pay:73300,MidCareer Pay:95800
+Rank:410,Major:Retail & Consumer Science,Bachelors,Degree Type:Bachelors,Early Career Pay:61600,MidCareer Pay:95800
+Rank:413,Major:Environmental Management,Bachelors,Degree Type:Bachelors,Early Career Pay:59100,MidCareer Pay:95700
+Rank:414,Major:History,Bachelors,Degree Type:Bachelors,Early Career Pay:56200,MidCareer Pay:95600
+Rank:415,Major:Environmental Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:52100,MidCareer Pay:95500
+Rank:415,Major:Media Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:58800,MidCareer Pay:95500
+Rank:417,Major:Apparel & Textile Manufacture,Bachelors,Degree Type:Bachelors,Early Career Pay:55800,MidCareer Pay:95400
+Rank:417,Major:Philosophy & Religion,Bachelors,Degree Type:Bachelors,Early Career Pay:51200,MidCareer Pay:95400
+Rank:419,Major:Publishing,Bachelors,Degree Type:Bachelors,Early Career Pay:54000,MidCareer Pay:95300
+Rank:420,Major:Environmental Geography,Bachelors,Degree Type:Bachelors,Early Career Pay:58300,MidCareer Pay:95200
+Rank:421,Major:Communication Studies & Journalism,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:95100
+Rank:422,Major:Environmental Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:57000,MidCareer Pay:95000
+Rank:422,Major:Health Management,Bachelors,Degree Type:Bachelors,Early Career Pay:52000,MidCareer Pay:95000
+Rank:424,Major:Architectural Engineering Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:55400,MidCareer Pay:94900
+Rank:425,Major:Agribusiness Management,Bachelors,Degree Type:Bachelors,Early Career Pay:60400,MidCareer Pay:94700
+Rank:426,Major:Interpersonal Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:51500,MidCareer Pay:94600
+Rank:426,Major:Retail Merchandising,Bachelors,Degree Type:Bachelors,Early Career Pay:60900,MidCareer Pay:94600
+Rank:428,Major:Diagnostic Medical Sonography,Bachelors,Degree Type:Bachelors,Early Career Pay:74100,MidCareer Pay:94400
+Rank:428,Major:Fashion,Bachelors,Degree Type:Bachelors,Early Career Pay:56700,MidCareer Pay:94400
+Rank:428,Major:Network Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:56000,MidCareer Pay:94400
+Rank:428,Major:General & Strategic Management,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:94400
+Rank:432,Major:Accounting & Business,Bachelors,Degree Type:Bachelors,Early Career Pay:61000,MidCareer Pay:94300
+Rank:433,Major:Dental Hygiene,Bachelors,Degree Type:Bachelors,Early Career Pay:83400,MidCareer Pay:94000
+Rank:433,Major:Electronic & Computer Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:76400,MidCareer Pay:94000
+Rank:435,Major:Journalism & Electronic Media,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:93900
+Rank:436,Major:Geographic Information Systems (GIS),Bachelors,Degree Type:Bachelors,Early Career Pay:58000,MidCareer Pay:93800
+Rank:436,Major:Toxicology,Bachelors,Degree Type:Bachelors,Early Career Pay:54900,MidCareer Pay:93800
+Rank:438,Major:Atmospheric Science,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:93600
+Rank:439,Major:Retailing,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:93200
+Rank:439,Major:Speech Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:54500,MidCareer Pay:93200
+Rank:439,Major:Visual Effects & Motion Graphics,Bachelors,Degree Type:Bachelors,Early Career Pay:55900,MidCareer Pay:93200
+Rank:442,Major:Ancient History,Bachelors,Degree Type:Bachelors,Early Career Pay:53600,MidCareer Pay:93100
+Rank:443,Major:Broadcast & Cinematic Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:49400,MidCareer Pay:93000
+Rank:443,Major:Sports Management,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:93000
+Rank:445,Major:Bachelor of Science in Nursing,Bachelors,Degree Type:Bachelors,Early Career Pay:74300,MidCareer Pay:92900
+Rank:445,Major:Landscape Architecture,Bachelors,Degree Type:Bachelors,Early Career Pay:60600,MidCareer Pay:92900
+Rank:447,Major:Professional Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:49900,MidCareer Pay:92600
+Rank:448,Major:Diagnostic Medical Ultrasound,Bachelors,Degree Type:Bachelors,Early Career Pay:78900,MidCareer Pay:92500
+Rank:448,Major:Entomology,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:92500
+Rank:448,Major:Foreign Languages,Bachelors,Degree Type:Bachelors,Early Career Pay:56200,MidCareer Pay:92500
+Rank:451,Major:Forestry,Bachelors,Degree Type:Bachelors,Early Career Pay:54000,MidCareer Pay:92200
+Rank:451,Major:Workforce Education & Development,Bachelors,Degree Type:Bachelors,Early Career Pay:69100,MidCareer Pay:92200
+Rank:453,Major:Leadership,Bachelors,Degree Type:Bachelors,Early Career Pay:55600,MidCareer Pay:92100
+Rank:453,Major:Geography,Bachelors,Degree Type:Bachelors,Early Career Pay:58300,MidCareer Pay:92100
+Rank:455,Major:Global Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:60400,MidCareer Pay:92000
+Rank:455,Major:Media Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:92000
+Rank:455,Major:Business Leadership,Bachelors,Degree Type:Bachelors,Early Career Pay:57600,MidCareer Pay:92000
+Rank:458,Major:English Language,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:91800
+Rank:459,Major:Agricultural Business,Bachelors,Degree Type:Bachelors,Early Career Pay:61300,MidCareer Pay:91700
+Rank:460,Major:American Sign Language Interpreting,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:91600
+Rank:460,Major:Computer Aided Design (CAD),Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:91600
+Rank:460,Major:Digital Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:52000,MidCareer Pay:91600
+Rank:460,Major:Human Resources Management (HRM),Bachelors,Degree Type:Bachelors,Early Career Pay:56100,MidCareer Pay:91600
+Rank:460,Major:Merchandising Management,Bachelors,Degree Type:Bachelors,Early Career Pay:55800,MidCareer Pay:91600
+Rank:465,Major:Music Performance,Bachelors,Degree Type:Bachelors,Early Career Pay:53400,MidCareer Pay:91500
+Rank:466,Major:Liberal Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:54300,MidCareer Pay:91400
+Rank:466,Major:Public Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:55000,MidCareer Pay:91400
+Rank:466,Major:Geosciences,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:91400
+Rank:469,Major:Retail Management,Bachelors,Degree Type:Bachelors,Early Career Pay:62300,MidCareer Pay:91300
+Rank:470,Major:Radio/Television & Film Production,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:91200
+Rank:471,Major:Fashion Merchandising,Bachelors,Degree Type:Bachelors,Early Career Pay:55200,MidCareer Pay:91000
+Rank:471,Major:Mass Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:52400,MidCareer Pay:91000
+Rank:471,Major:Travel Industry Management,Bachelors,Degree Type:Bachelors,Early Career Pay:60600,MidCareer Pay:91000
+Rank:474,Major:Allied Health,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:90700
+Rank:474,Major:Electronic Media,Bachelors,Degree Type:Bachelors,Early Career Pay:52200,MidCareer Pay:90700
+Rank:474,Major:Organizational Leadership & Supervision,Bachelors,Degree Type:Bachelors,Early Career Pay:56200,MidCareer Pay:90700
+Rank:477,Major:Homeland Security,Bachelors,Degree Type:Bachelors,Early Career Pay:57100,MidCareer Pay:90500
+Rank:477,Major:Arts Management,Bachelors,Degree Type:Bachelors,Early Career Pay:46400,MidCareer Pay:90500
+Rank:477,Major:Spanish Language,Bachelors,Degree Type:Bachelors,Early Career Pay:56300,MidCareer Pay:90500
+Rank:480,Major:3D Animation,Bachelors,Degree Type:Bachelors,Early Career Pay:58400,MidCareer Pay:90400
+Rank:481,Major:Business Management & Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:60700,MidCareer Pay:90300
+Rank:481,Major:Marine Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:49800,MidCareer Pay:90300
+Rank:481,Major:Nuclear Medicine Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:70300,MidCareer Pay:90300
+Rank:481,Major:Religious Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:90300
+Rank:485,Major:English Language & Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:54200,MidCareer Pay:90200
+Rank:486,Major:Information & Communication Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:90100
+Rank:486,Major:Museum Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:44200,MidCareer Pay:90100
+Rank:488,Major:Business Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:64400,MidCareer Pay:90000
+Rank:488,Major:Radiologic Science,Bachelors,Degree Type:Bachelors,Early Career Pay:66000,MidCareer Pay:90000
+Rank:490,Major:Organizational Leadership,Bachelors,Degree Type:Bachelors,Early Career Pay:58300,MidCareer Pay:89900
+Rank:490,Major:Animation,Bachelors,Degree Type:Bachelors,Early Career Pay:52400,MidCareer Pay:89900
+Rank:492,Major:Art History,Bachelors,Degree Type:Bachelors,Early Career Pay:55300,MidCareer Pay:89800
+Rank:492,Major:Management & Leadership,Bachelors,Degree Type:Bachelors,Early Career Pay:60900,MidCareer Pay:89800
+Rank:492,Major:Meteorology,Bachelors,Degree Type:Bachelors,Early Career Pay:54400,MidCareer Pay:89800
+Rank:495,Major:Film Production,Bachelors,Degree Type:Bachelors,Early Career Pay:51800,MidCareer Pay:89600
+Rank:495,Major:Musicology,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:89600
+Rank:495,Major:Technical Writing,Bachelors,Degree Type:Bachelors,Early Career Pay:62400,MidCareer Pay:89600
+Rank:498,Major:Administrative Management,Bachelors,Degree Type:Bachelors,Early Career Pay:60900,MidCareer Pay:89500
+Rank:498,Major:Forestry Management,Bachelors,Degree Type:Bachelors,Early Career Pay:56100,MidCareer Pay:89500
+Rank:500,Major:Automotive Technology & Service Management,Bachelors,Degree Type:Bachelors,Early Career Pay:63200,MidCareer Pay:89400
+Rank:501,Major:Historic Preservation,Bachelors,Degree Type:Bachelors,Early Career Pay:48900,MidCareer Pay:89200
+Rank:502,Major:Multimedia,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:89000
+Rank:502,Major:Fashion Marketing & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:56500,MidCareer Pay:89000
+Rank:504,Major:Organizational Management,Bachelors,Degree Type:Bachelors,Early Career Pay:57200,MidCareer Pay:88900
+Rank:505,Major:Apparel Merchandising,Bachelors,Degree Type:Bachelors,Early Career Pay:56700,MidCareer Pay:88800
+Rank:505,Major:Earth Science,Bachelors,Degree Type:Bachelors,Early Career Pay:58700,MidCareer Pay:88800
+Rank:505,Major:Ethnic Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:55900,MidCareer Pay:88800
+Rank:508,Major:German Language & Literature,Bachelors,Degree Type:Bachelors,Early Career Pay:59400,MidCareer Pay:88600
+Rank:508,Major:Radiology,Bachelors,Degree Type:Bachelors,Early Career Pay:63800,MidCareer Pay:88600
+Rank:508,Major:Zoology,Bachelors,Degree Type:Bachelors,Early Career Pay:48200,MidCareer Pay:88600
+Rank:511,Major:Human Nutrition,Bachelors,Degree Type:Bachelors,Early Career Pay:57700,MidCareer Pay:88500
+Rank:512,Major:Agricultural Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:52400,MidCareer Pay:88400
+Rank:512,Major:Audio Engineering,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:88400
+Rank:512,Major:Geomatics,Bachelors,Degree Type:Bachelors,Early Career Pay:59400,MidCareer Pay:88400
+Rank:515,Major:Broadcast Journalism,Bachelors,Degree Type:Bachelors,Early Career Pay:51100,MidCareer Pay:88300
+Rank:516,Major:Cytotechnology,Bachelors,Degree Type:Bachelors,Early Career Pay:69100,MidCareer Pay:88100
+Rank:516,Major:Marketing & Advertising,Bachelors,Degree Type:Bachelors,Early Career Pay:57000,MidCareer Pay:88100
+Rank:518,Major:Applied Management,Bachelors,Degree Type:Bachelors,Early Career Pay:50600,MidCareer Pay:88000
+Rank:518,Major:Social Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:56600,MidCareer Pay:88000
+Rank:520,Major:Communication Design,Bachelors,Degree Type:Bachelors,Early Career Pay:60600,MidCareer Pay:87900
+Rank:520,Major:Romance Languages,Bachelors,Degree Type:Bachelors,Early Career Pay:59100,MidCareer Pay:87900
+Rank:522,Major:Sociology & Anthropology,Bachelors,Degree Type:Bachelors,Early Career Pay:53300,MidCareer Pay:87800
+Rank:523,Major:Creative Writing,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:87700
+Rank:523,Major:Human Resources (HR),Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:87700
+Rank:525,Major:Law Enforcement,Bachelors,Degree Type:Bachelors,Early Career Pay:55200,MidCareer Pay:87400
+Rank:526,Major:Criminal Justice Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:53700,MidCareer Pay:87300
+Rank:527,Major:Marine Science,Bachelors,Degree Type:Bachelors,Early Career Pay:53600,MidCareer Pay:87200
+Rank:527,Major:Training and Development,Bachelors,Degree Type:Bachelors,Early Career Pay:61300,MidCareer Pay:87200
+Rank:529,Major:Advertising & Graphic Design,Bachelors,Degree Type:Bachelors,Early Career Pay:55100,MidCareer Pay:87100
+Rank:529,Major:Technical & Scientific Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:59200,MidCareer Pay:87100
+Rank:531,Major:Natural Resources,Bachelors,Degree Type:Bachelors,Early Career Pay:56000,MidCareer Pay:86800
+Rank:532,Major:Radiologic Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:64000,MidCareer Pay:86600
+Rank:533,Major:Sports Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:52500,MidCareer Pay:86500
+Rank:534,Major:Broadcast Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:48700,MidCareer Pay:86400
+Rank:535,Major:Cultural Anthropology,Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:86300
+Rank:536,Major:Human Resources Development,Bachelors,Degree Type:Bachelors,Early Career Pay:57000,MidCareer Pay:86100
+Rank:537,Major:Human Relations,Bachelors,Degree Type:Bachelors,Early Career Pay:53500,MidCareer Pay:86000
+Rank:537,Major:Merchandising,Bachelors,Degree Type:Bachelors,Early Career Pay:61000,MidCareer Pay:86000
+Rank:537,Major:Environmental Health Science,Bachelors,Degree Type:Bachelors,Early Career Pay:63000,MidCareer Pay:86000
+Rank:540,Major:Communication Management,Bachelors,Degree Type:Bachelors,Early Career Pay:54400,MidCareer Pay:85900
+Rank:540,Major:Security Management,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:85900
+Rank:542,Major:Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:49700,MidCareer Pay:85800
+Rank:542,Major:Adult Education & Training,Bachelors,Degree Type:Bachelors,Early Career Pay:58000,MidCareer Pay:85800
+Rank:542,Major:Health Care Management,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:85800
+Rank:542,Major:Medical Laboratory Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:66700,MidCareer Pay:85800
+Rank:546,Major:Multimedia & Web Design,Bachelors,Degree Type:Bachelors,Early Career Pay:57600,MidCareer Pay:85700
+Rank:546,Major:Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:85700
+Rank:548,Major:Visual Communications,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:85600
+Rank:549,Major:Emergency Management,Bachelors,Degree Type:Bachelors,Early Career Pay:58900,MidCareer Pay:85500
+Rank:550,Major:Natural Resource Management,Bachelors,Degree Type:Bachelors,Early Career Pay:54600,MidCareer Pay:85300
+Rank:550,Major:Hotel & Restaurant Management,Bachelors,Degree Type:Bachelors,Early Career Pay:56400,MidCareer Pay:85300
+Rank:552,Major:Anthropology,Bachelors,Degree Type:Bachelors,Early Career Pay:55200,MidCareer Pay:85200
+Rank:552,Major:Diagnostic Medical Imaging,Bachelors,Degree Type:Bachelors,Early Career Pay:70300,MidCareer Pay:85200
+Rank:554,Major:Middle Eastern Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:67900,MidCareer Pay:85100
+Rank:554,Major:Painting & Printmaking,Bachelors,Degree Type:Bachelors,Early Career Pay:40500,MidCareer Pay:85100
+Rank:556,Major:Criminology,Bachelors,Degree Type:Bachelors,Early Career Pay:52200,MidCareer Pay:85000
+Rank:556,Major:New Media,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:85000
+Rank:558,Major:Psychology & Social Behavior,Bachelors,Degree Type:Bachelors,Early Career Pay:53300,MidCareer Pay:84900
+Rank:559,Major:Art & Design,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:84700
+Rank:560,Major:Ecology,Bachelors,Degree Type:Bachelors,Early Career Pay:54700,MidCareer Pay:84500
+Rank:560,Major:Interior Design,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:84500
+Rank:560,Major:Multidisciplinary Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:51500,MidCareer Pay:84500
+Rank:560,Major:Hospitality Management,Bachelors,Degree Type:Bachelors,Early Career Pay:55400,MidCareer Pay:84500
+Rank:564,Major:Music,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:84400
+Rank:565,Major:Health Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:52300,MidCareer Pay:84300
+Rank:565,Major:Sociology,Bachelors,Degree Type:Bachelors,Early Career Pay:54700,MidCareer Pay:84300
+Rank:567,Major:Physical Anthropology,Bachelors,Degree Type:Bachelors,Early Career Pay:57600,MidCareer Pay:84100
+Rank:568,Major:Cardiopulmonary Science,Bachelors,Degree Type:Bachelors,Early Career Pay:58200,MidCareer Pay:84000
+Rank:569,Major:Archaeology,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:83900
+Rank:569,Major:Life Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:61100,MidCareer Pay:83900
+Rank:569,Major:SocialStudies,Bachelors,Degree Type:Bachelors,Early Career Pay:54200,MidCareer Pay:83900
+Rank:572,Major:Communication Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:49600,MidCareer Pay:83800
+Rank:573,Major:Health Information Management,Bachelors,Degree Type:Bachelors,Early Career Pay:57200,MidCareer Pay:83700
+Rank:573,Major:Kinesiology,Bachelors,Degree Type:Bachelors,Early Career Pay:52600,MidCareer Pay:83700
+Rank:573,Major:Clinical Laboratory Science,Bachelors,Degree Type:Bachelors,Early Career Pay:63400,MidCareer Pay:83700
+Rank:576,Major:Spanish Language Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:56700,MidCareer Pay:83600
+Rank:577,Major:Child Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:50500,MidCareer Pay:83500
+Rank:577,Major:Exercise Physiology,Bachelors,Degree Type:Bachelors,Early Career Pay:50600,MidCareer Pay:83500
+Rank:577,Major:Respiratory Care,Bachelors,Degree Type:Bachelors,Early Career Pay:63700,MidCareer Pay:83500
+Rank:580,Major:Art Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:47500,MidCareer Pay:83400
+Rank:580,Major:Medical Laboratory Science,Bachelors,Degree Type:Bachelors,Early Career Pay:64900,MidCareer Pay:83400
+Rank:580,Major:Secondary Education,Bachelors,Degree Type:Bachelors,Early Career Pay:52100,MidCareer Pay:83400
+Rank:580,Major:Theater,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:83400
+Rank:584,Major:Hospital Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:60100,MidCareer Pay:83300
+Rank:584,Major:Practical Nursing,Bachelors,Degree Type:Bachelors,Early Career Pay:72100,MidCareer Pay:83300
+Rank:586,Major:Health,Bachelors,Degree Type:Bachelors,Early Career Pay:51000,MidCareer Pay:83200
+Rank:586,Major:Health Care Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:53400,MidCareer Pay:83200
+Rank:588,Major:Mass Media,Bachelors,Degree Type:Bachelors,Early Career Pay:47100,MidCareer Pay:82900
+Rank:589,Major:Sustainability,Bachelors,Degree Type:Bachelors,Early Career Pay:56100,MidCareer Pay:82700
+Rank:590,Major:Radiography,Bachelors,Degree Type:Bachelors,Early Career Pay:64700,MidCareer Pay:82600
+Rank:591,Major:Media Communication,Bachelors,Degree Type:Bachelors,Early Career Pay:55000,MidCareer Pay:82500
+Rank:592,Major:Applied Behavior Analysis,Bachelors,Degree Type:Bachelors,Early Career Pay:44700,MidCareer Pay:82400
+Rank:592,Major:Biological Anthropology,Bachelors,Degree Type:Bachelors,Early Career Pay:54900,MidCareer Pay:82400
+Rank:592,Major:Hotel & Restaurant Tourism,Bachelors,Degree Type:Bachelors,Early Career Pay:50200,MidCareer Pay:82400
+Rank:592,Major:Respiratory Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:63800,MidCareer Pay:82400
+Rank:596,Major:Radio & Television,Bachelors,Degree Type:Bachelors,Early Career Pay:50100,MidCareer Pay:82100
+Rank:597,Major:Recreation Management,Bachelors,Degree Type:Bachelors,Early Career Pay:50300,MidCareer Pay:81900
+Rank:598,Major:Humanities,Bachelors,Degree Type:Bachelors,Early Career Pay:58100,MidCareer Pay:81800
+Rank:599,Major:Computer Art,Bachelors,Degree Type:Bachelors,Early Career Pay:45400,MidCareer Pay:81600
+Rank:600,Major:Communications Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:54100,MidCareer Pay:81500
+Rank:600,Major:Psychiatry,Bachelors,Degree Type:Bachelors,Early Career Pay:65900,MidCareer Pay:81500
+Rank:602,Major:Commercial Photography,Bachelors,Degree Type:Bachelors,Early Career Pay:50400,MidCareer Pay:81300
+Rank:603,Major:Fashion Design & Marketing,Bachelors,Degree Type:Bachelors,Early Career Pay:55300,MidCareer Pay:81200
+Rank:603,Major:Interdisciplinary Studies (IS),Bachelors,Degree Type:Bachelors,Early Career Pay:52200,MidCareer Pay:81200
+Rank:603,Major:Web Design,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:81200
+Rank:606,Major:Legal Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:55000,MidCareer Pay:81100
+Rank:606,Major:Nutrition & Dietetics,Bachelors,Degree Type:Bachelors,Early Career Pay:59000,MidCareer Pay:81100
+Rank:608,Major:Plant Sciences,Bachelors,Degree Type:Bachelors,Early Career Pay:57400,MidCareer Pay:80900
+Rank:609,Major:Graphic Design,Bachelors,Degree Type:Bachelors,Early Career Pay:52900,MidCareer Pay:80800
+Rank:609,Major:Fine Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:50400,MidCareer Pay:80800
+Rank:611,Major:Liberal Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:52800,MidCareer Pay:80700
+Rank:611,Major:Modern Languages,Bachelors,Degree Type:Bachelors,Early Career Pay:58900,MidCareer Pay:80700
+Rank:613,Major:Religion,Bachelors,Degree Type:Bachelors,Early Career Pay:51900,MidCareer Pay:80600
+Rank:614,Major:Medical Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:62800,MidCareer Pay:80500
+Rank:615,Major:Dietetics,Bachelors,Degree Type:Bachelors,Early Career Pay:59700,MidCareer Pay:80300
+Rank:615,Major:Health Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:80300
+Rank:615,Major:Missions,Bachelors,Degree Type:Bachelors,Early Career Pay:46700,MidCareer Pay:80300
+Rank:618,Major:Applied Sociology,Bachelors,Degree Type:Bachelors,Early Career Pay:48900,MidCareer Pay:80100
+Rank:619,Major:Criminal Justice,Bachelors,Degree Type:Bachelors,Early Career Pay:50000,MidCareer Pay:80000
+Rank:620,Major:Ornamental Horticulture,Bachelors,Degree Type:Bachelors,Early Career Pay:47400,MidCareer Pay:79800
+Rank:620,Major:Physical Geography,Bachelors,Degree Type:Bachelors,Early Career Pay:56100,MidCareer Pay:79800
+Rank:622,Major:Landscape Management,Bachelors,Degree Type:Bachelors,Early Career Pay:61100,MidCareer Pay:79600
+Rank:622,Major:Ministry,Bachelors,Degree Type:Bachelors,Early Career Pay:42700,MidCareer Pay:79600
+Rank:622,Major:Public Health (PH),Bachelors,Degree Type:Bachelors,Early Career Pay:54000,MidCareer Pay:79600
+Rank:625,Major:Speech-Language Pathology,Bachelors,Degree Type:Bachelors,Early Career Pay:51400,MidCareer Pay:79400
+Rank:626,Major:Drawing,Bachelors,Degree Type:Bachelors,Early Career Pay:44300,MidCareer Pay:79300
+Rank:627,Major:Health & Fitness,Bachelors,Degree Type:Bachelors,Early Career Pay:45300,MidCareer Pay:79200
+Rank:628,Major:Forensic Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:49700,MidCareer Pay:79100
+Rank:628,Major:Pastoral Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:60800,MidCareer Pay:79100
+Rank:630,Major:Culture Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:53500,MidCareer Pay:79000
+Rank:631,Major:Foods & Nutrition,Bachelors,Degree Type:Bachelors,Early Career Pay:54500,MidCareer Pay:78900
+Rank:631,Major:Women's Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:52500,MidCareer Pay:78900
+Rank:631,Major:Forensic Accounting,Bachelors,Degree Type:Bachelors,Early Career Pay:56200,MidCareer Pay:78900
+Rank:634,Major:Animal Science,Bachelors,Degree Type:Bachelors,Early Career Pay:48300,MidCareer Pay:78800
+Rank:635,Major:Performing Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:52900,MidCareer Pay:78600
+Rank:636,Major:Education,Bachelors,Degree Type:Bachelors,Early Career Pay:52200,MidCareer Pay:78500
+Rank:637,Major:African American & African Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:55900,MidCareer Pay:78400
+Rank:638,Major:Hospitality & Tourism,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:78200
+Rank:638,Major:Modern Language Spanish,Bachelors,Degree Type:Bachelors,Early Career Pay:52400,MidCareer Pay:78200
+Rank:640,Major:Arts & Science,Bachelors,Degree Type:Bachelors,Early Career Pay:53300,MidCareer Pay:77900
+Rank:641,Major:Nutrition Science,Bachelors,Degree Type:Bachelors,Early Career Pay:57800,MidCareer Pay:77800
+Rank:642,Major:Speech Pathology & Audiology,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:77700
+Rank:643,Major:Media Production,Bachelors,Degree Type:Bachelors,Early Career Pay:50800,MidCareer Pay:77600
+Rank:643,Major:Small Business Management,Bachelors,Degree Type:Bachelors,Early Career Pay:54000,MidCareer Pay:77600
+Rank:645,Major:Painting,Bachelors,Degree Type:Bachelors,Early Career Pay:48500,MidCareer Pay:77500
+Rank:645,Major:Social Science Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:77500
+Rank:645,Major:Network Technology,Bachelors,Degree Type:Bachelors,Early Career Pay:64100,MidCareer Pay:77500
+Rank:648,Major:Psychology & Sociology,Bachelors,Degree Type:Bachelors,Early Career Pay:50700,MidCareer Pay:77400
+Rank:649,Major:Music Composition,Bachelors,Degree Type:Bachelors,Early Career Pay:51200,MidCareer Pay:77300
+Rank:649,Major:Video Production,Bachelors,Degree Type:Bachelors,Early Career Pay:48900,MidCareer Pay:77300
+Rank:651,Major:Dramatic Art,Bachelors,Degree Type:Bachelors,Early Career Pay:50000,MidCareer Pay:76700
+Rank:652,Major:Mortuary Science,Bachelors,Degree Type:Bachelors,Early Career Pay:49100,MidCareer Pay:76600
+Rank:652,Major:Technical Theatre,Bachelors,Degree Type:Bachelors,Early Career Pay:48000,MidCareer Pay:76600
+Rank:654,Major:Family & Consumer Science,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:76500
+Rank:654,Major:Radio Broadcasting,Bachelors,Degree Type:Bachelors,Early Career Pay:53100,MidCareer Pay:76500
+Rank:654,Major:Theology,Bachelors,Degree Type:Bachelors,Early Career Pay:51800,MidCareer Pay:76500
+Rank:657,Major:Health Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:50900,MidCareer Pay:76400
+Rank:658,Major:Consumer Affairs,Bachelors,Degree Type:Bachelors,Early Career Pay:59500,MidCareer Pay:76200
+Rank:659,Major:Vocal Performance,Bachelors,Degree Type:Bachelors,Early Career Pay:49900,MidCareer Pay:76100
+Rank:660,Major:Art,Bachelors,Degree Type:Bachelors,Early Career Pay:51000,MidCareer Pay:76000
+Rank:661,Major:Behavioral Science,Bachelors,Degree Type:Bachelors,Early Career Pay:50800,MidCareer Pay:75900
+Rank:661,Major:Health Services Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:50100,MidCareer Pay:75900
+Rank:663,Major:General Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:75800
+Rank:663,Major:Photography,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:75800
+Rank:665,Major:Exercise & Sports Science,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:75700
+Rank:665,Major:Forensic Science,Bachelors,Degree Type:Bachelors,Early Career Pay:53600,MidCareer Pay:75700
+Rank:665,Major:History Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:75700
+Rank:668,Major:International Trade,Bachelors,Degree Type:Bachelors,Early Career Pay:55700,MidCareer Pay:75600
+Rank:669,Major:Restaurant & Food Service Management,Bachelors,Degree Type:Bachelors,Early Career Pay:50600,MidCareer Pay:75500
+Rank:670,Major:Health & Physical Education Teaching,Bachelors,Degree Type:Bachelors,Early Career Pay:46600,MidCareer Pay:75300
+Rank:671,Major:Justice Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:53800,MidCareer Pay:75200
+Rank:672,Major:Tourism & Travel,Bachelors,Degree Type:Bachelors,Early Career Pay:46700,MidCareer Pay:75100
+Rank:673,Major:Culinary Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:47800,MidCareer Pay:74900
+Rank:673,Major:Physical Education Teaching,Bachelors,Degree Type:Bachelors,Early Career Pay:49700,MidCareer Pay:74900
+Rank:675,Major:Physical Therapist Assistant Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:56800,MidCareer Pay:74800
+Rank:676,Major:Graphic Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:49800,MidCareer Pay:74600
+Rank:677,Major:Interior Design & Merchandising,Bachelors,Degree Type:Bachelors,Early Career Pay:51700,MidCareer Pay:74300
+Rank:677,Major:Supervision & Management,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:74300
+Rank:679,Major:Event Management,Bachelors,Degree Type:Bachelors,Early Career Pay:49800,MidCareer Pay:74100
+Rank:679,Major:Health & Wellness,Bachelors,Degree Type:Bachelors,Early Career Pay:46800,MidCareer Pay:74100
+Rank:679,Major:Music Industry,Bachelors,Degree Type:Bachelors,Early Career Pay:54500,MidCareer Pay:74100
+Rank:682,Major:Clinical Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:49300,MidCareer Pay:74000
+Rank:682,Major:Recreation Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:55500,MidCareer Pay:74000
+Rank:684,Major:Health & Exercise Science,Bachelors,Degree Type:Bachelors,Early Career Pay:48300,MidCareer Pay:73900
+Rank:684,Major:Physical Education & Exercise Science,Bachelors,Degree Type:Bachelors,Early Career Pay:52600,MidCareer Pay:73900
+Rank:686,Major:Recreation & Leisure Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:48400,MidCareer Pay:73800
+Rank:687,Major:Ceramics,Bachelors,Degree Type:Bachelors,Early Career Pay:51100,MidCareer Pay:73700
+Rank:687,Major:Culinary Arts & Food Service Management,Bachelors,Degree Type:Bachelors,Early Career Pay:49800,MidCareer Pay:73700
+Rank:689,Major:Secondary English Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:51700,MidCareer Pay:73600
+Rank:690,Major:Family & Community Services,Bachelors,Degree Type:Bachelors,Early Career Pay:49700,MidCareer Pay:73500
+Rank:691,Major:Instrumental Music Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:51100,MidCareer Pay:73200
+Rank:692,Major:Health Services Management,Bachelors,Degree Type:Bachelors,Early Career Pay:48900,MidCareer Pay:73100
+Rank:693,Major:Exercise Science,Bachelors,Degree Type:Bachelors,Early Career Pay:48900,MidCareer Pay:72900
+Rank:693,Major:English Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:50300,MidCareer Pay:72900
+Rank:693,Major:Paralegal Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:47300,MidCareer Pay:72900
+Rank:696,Major:Audio Production,Bachelors,Degree Type:Bachelors,Early Career Pay:51300,MidCareer Pay:72600
+Rank:697,Major:Community Health,Bachelors,Degree Type:Bachelors,Early Career Pay:54300,MidCareer Pay:72400
+Rank:697,Major:Photojournalism,Bachelors,Degree Type:Bachelors,Early Career Pay:48200,MidCareer Pay:72400
+Rank:699,Major:Fashion & Retail Management,Bachelors,Degree Type:Bachelors,Early Career Pay:57300,MidCareer Pay:72300
+Rank:700,Major:Dance,Bachelors,Degree Type:Bachelors,Early Career Pay:51800,MidCareer Pay:72000
+Rank:701,Major:Conservation Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:49400,MidCareer Pay:71600
+Rank:702,Major:Parks & Recreation Management,Bachelors,Degree Type:Bachelors,Early Career Pay:49700,MidCareer Pay:71500
+Rank:703,Major:Deaf Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:43300,MidCareer Pay:71300
+Rank:703,Major:Music Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:49600,MidCareer Pay:71300
+Rank:703,Major:Tourism Management,Bachelors,Degree Type:Bachelors,Early Career Pay:51400,MidCareer Pay:71300
+Rank:706,Major:Teaching English as a Second Language (ESL),Bachelors,Degree Type:Bachelors,Early Career Pay:49900,MidCareer Pay:70900
+Rank:707,Major:Organizational Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:52600,MidCareer Pay:70700
+Rank:708,Major:Wildlife Biology,Bachelors,Degree Type:Bachelors,Early Career Pay:50200,MidCareer Pay:70400
+Rank:709,Major:Educational Studies (ED),Bachelors,Degree Type:Bachelors,Early Career Pay:46900,MidCareer Pay:70300
+Rank:709,Major:Elementary Special Education,Bachelors,Degree Type:Bachelors,Early Career Pay:52500,MidCareer Pay:70300
+Rank:711,Major:Horticulture,Bachelors,Degree Type:Bachelors,Early Career Pay:49900,MidCareer Pay:70100
+Rank:712,Major:Gender Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:52700,MidCareer Pay:70000
+Rank:712,Major:Landscape Design,Bachelors,Degree Type:Bachelors,Early Career Pay:57900,MidCareer Pay:70000
+Rank:712,Major:Wildlife Management,Bachelors,Degree Type:Bachelors,Early Career Pay:45800,MidCareer Pay:70000
+Rank:715,Major:Community Development,Bachelors,Degree Type:Bachelors,Early Career Pay:53000,MidCareer Pay:69600
+Rank:715,Major:Emergency Medical Services (EMS),Bachelors,Degree Type:Bachelors,Early Career Pay:48100,MidCareer Pay:69600
+Rank:717,Major:Biblical Studies & Practical Ministries,Bachelors,Degree Type:Bachelors,Early Career Pay:44300,MidCareer Pay:69200
+Rank:717,Major:Community Health Education,Bachelors,Degree Type:Bachelors,Early Career Pay:50100,MidCareer Pay:69200
+Rank:717,Major:Recording Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:53400,MidCareer Pay:69200
+Rank:720,Major:Health Promotion,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:69000
+Rank:720,Major:Social Studies Teacher Education,Bachelors,Degree Type:Bachelors,Early Career Pay:50900,MidCareer Pay:69000
+Rank:722,Major:Athletic Training,Bachelors,Degree Type:Bachelors,Early Career Pay:49100,MidCareer Pay:68900
+Rank:722,Major:Pastoral Ministry,Bachelors,Degree Type:Bachelors,Early Career Pay:45800,MidCareer Pay:68900
+Rank:724,Major:Communication Sciences & Disorders,Bachelors,Degree Type:Bachelors,Early Career Pay:52000,MidCareer Pay:68700
+Rank:725,Major:Speech & Hearing,Bachelors,Degree Type:Bachelors,Early Career Pay:53200,MidCareer Pay:68600
+Rank:726,Major:Sculpture,Bachelors,Degree Type:Bachelors,Early Career Pay:46000,MidCareer Pay:68200
+Rank:727,Major:Church Ministries,Bachelors,Degree Type:Bachelors,Early Career Pay:43300,MidCareer Pay:67400
+Rank:728,Major:Biblical Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:48400,MidCareer Pay:67300
+Rank:729,Major:Horticulture & Agronomy,Bachelors,Degree Type:Bachelors,Early Career Pay:60700,MidCareer Pay:67200
+Rank:730,Major:Bible Studies & Theology,Bachelors,Degree Type:Bachelors,Early Career Pay:46300,MidCareer Pay:67000
+Rank:731,Major:Human Development & Family Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:47000,MidCareer Pay:66400
+Rank:732,Major:Family Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:46300,MidCareer Pay:66100
+Rank:732,Major:Legal Assistant Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:43300,MidCareer Pay:66100
+Rank:734,Major:Christian Ministry,Bachelors,Degree Type:Bachelors,Early Career Pay:44300,MidCareer Pay:65200
+Rank:735,Major:Health and Human Services,Bachelors,Degree Type:Bachelors,Early Career Pay:50600,MidCareer Pay:65100
+Rank:735,Major:Voice & Opera,Bachelors,Degree Type:Bachelors,Early Career Pay:39600,MidCareer Pay:65100
+Rank:737,Major:Home Economics,Bachelors,Degree Type:Bachelors,Early Career Pay:49200,MidCareer Pay:65000
+Rank:737,Major:Special Education,Bachelors,Degree Type:Bachelors,Early Career Pay:48400,MidCareer Pay:65000
+Rank:739,Major:Music Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:49400,MidCareer Pay:64900
+Rank:740,Major:Rehabilitation Services,Bachelors,Degree Type:Bachelors,Early Career Pay:43600,MidCareer Pay:64700
+Rank:741,Major:Developmental Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:44200,MidCareer Pay:63700
+Rank:741,Major:Youth Ministry,Bachelors,Degree Type:Bachelors,Early Career Pay:44000,MidCareer Pay:63700
+Rank:743,Major:Educational Psychology,Bachelors,Degree Type:Bachelors,Early Career Pay:48100,MidCareer Pay:63600
+Rank:744,Major:Community & Human Services,Bachelors,Degree Type:Bachelors,Early Career Pay:49500,MidCareer Pay:63200
+Rank:744,Major:Therapeutic Recreation,Bachelors,Degree Type:Bachelors,Early Career Pay:46700,MidCareer Pay:63200
+Rank:746,Major:Social Work (SW),Bachelors,Degree Type:Bachelors,Early Career Pay:45000,MidCareer Pay:63000
+Rank:747,Major:Elementary Education,Bachelors,Degree Type:Bachelors,Early Career Pay:47300,MidCareer Pay:62500
+Rank:748,Major:Office Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:45600,MidCareer Pay:62300
+Rank:749,Major:Christian Education,Bachelors,Degree Type:Bachelors,Early Career Pay:47200,MidCareer Pay:62200
+Rank:750,Major:Human Services (HS),Bachelors,Degree Type:Bachelors,Early Career Pay:45800,MidCareer Pay:61400
+Rank:751,Major:Child Development,Bachelors,Degree Type:Bachelors,Early Career Pay:43400,MidCareer Pay:60400
+Rank:752,Major:Middle School Education,Bachelors,Degree Type:Bachelors,Early Career Pay:49900,MidCareer Pay:60200
+Rank:753,Major:Recreational Therapy,Bachelors,Degree Type:Bachelors,Early Career Pay:45700,MidCareer Pay:58900
+Rank:754,Major:Early Childhood & Elementary Education,Bachelors,Degree Type:Bachelors,Early Career Pay:44900,MidCareer Pay:58000
+Rank:755,Major:Outdoor Education,Bachelors,Degree Type:Bachelors,Early Career Pay:43400,MidCareer Pay:56900
+Rank:756,Major:Baking & Pastry Arts,Bachelors,Degree Type:Bachelors,Early Career Pay:43700,MidCareer Pay:56500
+Rank:757,Major:Child & Family Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:42900,MidCareer Pay:55300
+Rank:758,Major:Mental Health,Bachelors,Degree Type:Bachelors,Early Career Pay:44100,MidCareer Pay:54500
+Rank:759,Major:Equine Studies,Bachelors,Degree Type:Bachelors,Early Career Pay:42300,MidCareer Pay:54100
+Rank:760,Major:Nonprofit Administration,Bachelors,Degree Type:Bachelors,Early Career Pay:43900,MidCareer Pay:53700
+Rank:761,Major:Addictions Counseling,Bachelors,Degree Type:Bachelors,Early Career Pay:47300,MidCareer Pay:52400
+Rank:762,Major:Early Childhood Education,Bachelors,Degree Type:Bachelors,Early Career Pay:43400,MidCareer Pay:52200
+Rank:763,Major:Metalsmithing,Bachelors,Degree Type:Bachelors,Early Career Pay:45900,MidCareer Pay:46600
